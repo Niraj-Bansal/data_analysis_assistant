@@ -41,9 +41,9 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-Deploy as a streamlit web app locally
+Deploy as a streamlit web app locally (Add your OPENAI_API_KEY in .env file)
 
 ```bash
-  streamlit run main.pyo
+  streamlit run main.py
 ```
 
